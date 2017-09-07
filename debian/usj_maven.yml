@@ -1,0 +1,6 @@
+package: libitext-rtf-java-maven
+
+artifacts:
+  - group_id: com.lowagie
+    artifact_id: itext-rtf
+
